@@ -4,9 +4,9 @@ Pace assumption: ~5–6 hours/week alongside classes.
 Guiding principle: **start logging pre-kickoff predictions as early as possible.** A season-long, timestamped record vs. the betting market is the strongest portfolio evidence.
 
 ## Phase 0: Setup (week 1)
-- [ ] Create GitHub account + empty repo `pl-match-model`
-- [ ] Install VS Code and Claude Code; have Claude Code walk through installing Python and setting up the folder
-- [ ] Add `CLAUDE.md`, `ROADMAP.md`, `LEARNING_LOG.md` to the repo
+- [x] Create GitHub account + empty repo `pl-match-model`
+- [x] Install VS Code and Claude Code; have Claude Code walk through installing Python and setting up the folder
+- [x] Add `CLAUDE.md`, `ROADMAP.md`, `LEARNING_LOG.md` to the repo
 - **Done when:** Claude Code runs in the folder and the first commit is on GitHub.
 
 ## Phase 1: Python warm-up (weeks 1–3)
